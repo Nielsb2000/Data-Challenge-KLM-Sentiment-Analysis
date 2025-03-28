@@ -3,6 +3,8 @@
 
 First Year data challenge dbl, on Sentiment analysis of KLM tweet database. 
 
+The database required to run this code is not on this github, since it's too big and belongs to KLM.
+
 
 Learning Goals;
 
